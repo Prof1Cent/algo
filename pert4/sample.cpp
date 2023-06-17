@@ -10,6 +10,8 @@ using namespace std;
 int main(){
 
     int a=5,b=4;
-    penjumlahan(a+b);
+    //penjumlahan();
+    cout<<a<<b;
+    cout<<&a;
     return 0;
 }
